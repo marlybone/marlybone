@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Marlon & Welcome to my profile
+## Hi there 👋 I'm Marlon & Welcome to my profile
 
+Pivoting from Recruitment to Development.
 
 - 🔭 I’m currently working on: An Admin dashboard
 - 🌱 I’m currently learning: Focusing on DSA
