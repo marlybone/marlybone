@@ -7,6 +7,9 @@ Pivoting from Recruitment to Development.
 - 👯 I’m looking to seeking to: Collaborate on opensource
 - 🤔 I’m looking for help with: Finding Employment
 - 📫 How to reach me: marlybone@gmail.com / codedcareer.org / https://www.linkedin.com/in/marlon-stevenson-510738109/
+ <br>
+ <br>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marlybone)](https://github.com/ryo-ma/github-profile-trophy)
 
