@@ -13,4 +13,9 @@ Pivoting from Recruitment to Development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marlybone)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlybone&show_icons=true)
+
   
