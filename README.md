@@ -6,16 +6,18 @@ Pivoting from Recruitment to Development.
 - 🌱 I’m currently learning: DSA 
 - 👯 I’m looking to seeking to: Collaborate on opensource
 - 🤔 I’m looking for help with: Finding Employment
-- 📫 How to reach me: marlybone@gmail.com / codedcareer.org / https://www.linkedin.com/in/marlon-stevenson-510738109/
+- 📫 How to reach me: marlybone@gmail.com 
  <br>
  <br>
 
  <p align="center">
  	<a href="https://www.linkedin.com/in/marlon-stevenson-510738109/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   	<a href="https://twitter.com/mRockSwe" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+	<a href="https://codedcareer.org/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
  </p> 
 
-
+<br>
+<br>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marlybone)](https://github.com/ryo-ma/github-profile-trophy)
