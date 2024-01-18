@@ -10,6 +10,11 @@ Pivoting from Recruitment to Development.
  <br>
  <br>
 
+ <a href="https://www.linkedin.com/in/marlon-stevenson-510738109/ target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>		
+ </a>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marlybone)](https://github.com/ryo-ma/github-profile-trophy)
 
