@@ -2,8 +2,8 @@
 
 Pivoting from Recruitment to Development.
 
-- 🔭 I’m currently working on: Backend API Certification
-- 🌱 I’m currently learning: DSA 
+- 🔭 I’m currently working on: Newsletter & Website
+- 🌱 I’m currently learning: DSA, Sanity,io, GROQ
 - 👯 I’m looking to seeking to: Collaborate on opensource
 - 🤔 I’m looking for help with: Finding Employment
 - 📫 How to reach me: marlybone@gmail.com 
