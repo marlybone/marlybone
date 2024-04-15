@@ -3,8 +3,8 @@
 Pivoting from Recruitment to Development.
 
 - 🔭 I’m currently working on: Newsletter & Website
-- 🌱 I’m currently learning: DSA, Sanity,io, GROQ
-- 👯 I’m looking to seeking to: Collaborate on opensource
+- 🌱 I’m currently learning: Sanity.io, GROQ & Framer Motion
+- 👯 I’m looking to: Collaborate on opensource
 - 🤔 I’m looking for help with: Seeking Employment
 - 📫 How to reach me: marlybone@gmail.com 
  <br>
